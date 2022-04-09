@@ -23,7 +23,7 @@
     "es6-promise": "^4.2.6",
     "eslint": "^5.16.0",
     "eslint-loader": "^2.1.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nuxt": "^2.0.0",
     "qs": "^6.7.0",
     "vuex-persist": "^2.0.0",
